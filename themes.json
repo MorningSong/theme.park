@@ -174,11 +174,11 @@
         },
         "fallout": {
           "css": [
-            "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout_video.css?sha=1fc7edb76308267a2f676f4877d9886e",
+            "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout_video.css?sha=a38557944ff1e533070468a6db311b3f",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal.css?sha=789f42770eef041174ced544bab84c67",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=0c7d7dd298198199fd72bdf2344f116c",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=582b56370855f8130a590d5fe886f554",
-            "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=41c2ac16dd7cef7e51cc9348d61becb2",
+            "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=21426c9f0f57186e5abab7e51d07919c",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=861291eb0b3ae0a7d2caa7a0d1a49719",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=42a605d8ee62c0aa2acce4b533db02a2"
           ],
@@ -338,7 +338,7 @@
     },
     "audiobookshelf": {
       "addons": {},
-      "base_css": "https://theme-park.dev/css/base/audiobookshelf/audiobookshelf-base.css?sha=ff56fda05b7dae338a5f509c6347c612"
+      "base_css": "https://theme-park.dev/css/base/audiobookshelf/audiobookshelf-base.css?sha=ab5d4185b36f2bc47221ec69ae95a79a"
     },
     "bazarr": {
       "addons": {
@@ -683,11 +683,11 @@
           },
           "fallout": {
             "css": [
-              "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout_video.css?sha=1fc7edb76308267a2f676f4877d9886e",
+              "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout_video.css?sha=a38557944ff1e533070468a6db311b3f",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal.css?sha=789f42770eef041174ced544bab84c67",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=0c7d7dd298198199fd72bdf2344f116c",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal.css?sha=582b56370855f8130a590d5fe886f554",
-              "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=41c2ac16dd7cef7e51cc9348d61becb2",
+              "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=21426c9f0f57186e5abab7e51d07919c",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=861291eb0b3ae0a7d2caa7a0d1a49719",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=42a605d8ee62c0aa2acce4b533db02a2"
             ],
